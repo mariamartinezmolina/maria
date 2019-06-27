@@ -1,0 +1,28 @@
+#j1 
+{
+background-image: url("foto1.jpg");
+}
+#hola
+{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#hola
+{
+ color: rgb(0, 119, 255);
+}
+#si
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#si
+{
+    color: rgb(0, 119, 255);
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+#columna1{
+    padding-top: 10px;
+}
+#adios {
+    padding-left: 150px;
+}
